@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-color: #e6dbc9;
+height: 100vh;
+width: 100vw;
+}
+.bull{
+    height: 300px;
+}
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 80px;
+    top: 20%;
+    left: 30%;
+}
+.bull img{
+    height: 550px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
